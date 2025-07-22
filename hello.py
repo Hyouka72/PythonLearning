@@ -1,2 +1,3 @@
-y = 1
-u = 6
+class BankAccount:
+    def __init__(self, balance):
+        self.__balance = balance
